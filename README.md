@@ -1,47 +1,48 @@
-<!-- HERO SECTION -->
+<div align="center">
 
-<p align="center">
-  <img src="images/hero-banner.jpg" width="100%" alt="Portfolio Banner">
-</p>
+# YOUR NAME
 
-<h1 align="center">Dr. Your Name</h1>
+### Food Scientist • Product Development • Culinary R&D
 
-<h3 align="center">Food Scientist | Product Development | Research & Innovation</h3>
+<img src="images/hero.jpg" width="100%">
 
-<p align="center">
-Bridging science, innovation, and consumer experience through evidence-based food development.
-</p>
+*"Creating products people remember."*
+
+</div>
+
+<br>
 
 ---
 
-# About Me
+# Featured Work
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
-### Hello
-
-I am a Food Scientist specializing in food product development, formulation optimization, sensory evaluation, food safety, and applied research.
-
-My work focuses on transforming scientific knowledge into commercially viable products while maintaining quality, nutrition, and regulatory compliance.
-
-**Core Areas**
-
-- Product Development
-- Food Chemistry
-- Sensory Science
-- Shelf-Life Studies
-- Quality Assurance
-- Regulatory Compliance
-- Experimental Design
-- Data Analysis
+<img src="images/breakfast-hero.jpg" width="100%">
 
 </td>
 
-<td width="40%">
+<td width="45%">
 
-<img src="images/profile-photo.jpg" width="100%" alt="Profile Photo">
+## Breakfast Collection
+
+A complete breakfast menu developed for a new Edible Brands concept.
+
+From early market research and competitive analysis through recipe formulation,
+iterative testing, and launch preparation, this project explored how fresh fruit
+could expand beyond gifting into an everyday breakfast experience.
+
+**Highlights**
+
+• Complete menu concept
+
+• Recipe development
+
+• Consumer-focused formulation
+
+• Launch support
 
 </td>
 </tr>
@@ -49,202 +50,159 @@ My work focuses on transforming scientific knowledge into commercially viable pr
 
 ---
 
-# Portfolio Highlights
-
-## Product Innovation
-
-<img src="images/project-01-cover.jpg" width="100%" alt="Project Cover">
-
-### Functional Beverage Development
-
-**Objective**
-
-Develop a shelf-stable functional beverage with improved nutritional profile and consumer acceptance.
-
-**Key Contributions**
-
-- Formula development
-- Stability testing
-- Sensory evaluation
-- Manufacturing scale-up
-
-**Outcome**
-
-- Improved product stability
-- Reduced production costs
-- Successful pilot-scale validation
-
----
-
-## Research & Development
-
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
-<img src="images/project-02-a.jpg" width="100%" alt="Research Image">
+## Chocolate & Fruit Desserts
+
+A collection of ready-to-eat desserts balancing premium presentation,
+freshness, and operational consistency.
+
+Recipes were refined through multiple rounds of testing with a focus on
+flavor, texture, appearance, and production efficiency.
 
 </td>
 
-<td width="50%">
+<td width="55%">
 
-<img src="images/project-02-b.jpg" width="100%" alt="Research Image">
+<img src="images/desserts.jpg" width="100%">
 
 </td>
 </tr>
 </table>
 
-### Food Chemistry Research
+---
 
-Investigation of ingredient interactions affecting texture, flavor release, and product stability.
+# Gallery
 
-#### Techniques Used
+| | |
+|---|---|
+| <img src="images/gallery1.jpg" width="100%"> | <img src="images/gallery2.jpg" width="100%"> |
+| <img src="images/gallery3.jpg" width="100%"> | <img src="images/gallery4.jpg" width="100%"> |
 
-- HPLC
-- GC-MS
-- Texture Analysis
-- Water Activity Testing
-- Statistical Modeling
+*A selection of products created for development, photography, and launch.*
 
 ---
 
-## Sensory Science
-
 <table>
 <tr>
-<td width="33%">
-<img src="images/sensory-01.jpg" width="100%">
+<td width="55%">
+
+<img src="images/fruit-arrangements.jpg" width="100%">
+
 </td>
 
-<td width="33%">
-<img src="images/sensory-02.jpg" width="100%">
-</td>
+<td width="45%">
 
-<td width="33%">
-<img src="images/sensory-03.jpg" width="100%">
+## Fruit Arrangement Design
+
+Developed seasonal fruit arrangements with an emphasis on visual appeal,
+production efficiency, and brand consistency.
+
+Projects included concept sketches, production testing, refinement,
+and preparation for training and promotional materials.
+
 </td>
 </tr>
 </table>
 
-### Consumer Insights
+---
 
-Designed and analyzed sensory studies to evaluate consumer preference and optimize product formulations.
+# Behind the Scenes
 
-**Methods**
+<table>
 
-- Triangle Tests
-- Hedonic Testing
-- Descriptive Analysis
-- Preference Mapping
+<tr>
+<td>
+
+<img src="images/process1.jpg" width="100%">
+
+</td>
+
+<td>
+
+<img src="images/process2.jpg" width="100%">
+
+</td>
+
+<td>
+
+<img src="images/process3.jpg" width="100%">
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+Prototype
+
+</td>
+
+<td align="center">
+
+Testing
+
+</td>
+
+<td align="center">
+
+Final Product
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# Featured Projects
+<table>
+<tr>
 
-## Project One
+<td width="45%">
 
-<img src="images/featured-project-01.jpg" width="100%">
+## Product Photography
 
-### Overview
+Many of these products were prepared for professional photography,
+marketing campaigns, social media, and internal training.
 
-Brief project description.
+Attention to detail extended beyond flavor—every garnish, cut, and finish
+needed to communicate quality.
 
-#### Challenges
+</td>
 
-- Challenge 1
-- Challenge 2
-- Challenge 3
+<td width="55%">
 
-#### Solution
+<img src="images/photoshoot.jpg" width="100%">
 
-Describe your scientific approach.
+</td>
 
-#### Results
-
-- Result 1
-- Result 2
-- Result 3
+</tr>
+</table>
 
 ---
 
-## Project Two
+# University Project
 
-<img src="images/featured-project-02.jpg" width="100%">
+<img src="images/muffin.jpg" width="100%">
 
-### Overview
+### Gluten-Free Raspberry Muffin
 
-Brief project description.
-
----
-
-## Project Three
-
-<img src="images/featured-project-03.jpg" width="100%">
-
-### Overview
-
-Brief project description.
+A senior capstone focused on developing a gluten-free, high-fiber muffin using
+consumer insights, specialty ingredients, and extensive shelf-life,
+microbial, chemical, and sensory testing.
 
 ---
 
-# Publications & Presentations
+<div align="center">
 
-| Year | Title | Type |
-|--------|---------|---------|
-| 2024 | Publication Title | Journal |
-| 2023 | Conference Presentation | Conference |
-| 2022 | Research Article | Journal |
+### Thanks for visiting.
 
----
+📧 <a href="mailto:mlangz922@gmail.com">mlangz922@gmail.com</a>
 
-# Technical Skills
+<a href="https://www.linkedin.com/in/michelle-langnickel-5728891b5/">LinkedIn</a> • <a href="https://github.com/MLangnickel">Portfolio</a>
 
-### Food Science
-
-- Product Formulation
-- Ingredient Functionality
-- Food Processing
-- Shelf-Life Evaluation
-- HACCP
-- Food Safety
-
-### Laboratory
-
-- HPLC
-- GC-MS
-- Spectroscopy
-- Texture Analysis
-- Microbiological Testing
-
-### Data & Software
-
-- R
-- Python
-- JMP
-- Excel
-- Power BI
-
----
-
-# Certifications
-
-- Certified Food Scientist (CFS)
-- HACCP Certification
-- Food Safety Management Systems
-- Regulatory Affairs Training
-
----
-
-# Contact
-
-📧 your.email@example.com
-
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
-
-🌐 Portfolio Website: https://yourwebsite.com
-
----
-
-<p align="center">
-  <img src="images/footer-image.jpg" width="100%" alt="Footer Image">
-</p>
+</div>
