@@ -20,7 +20,7 @@
 <tr>
 <td width="55%">
 
-<img src="images/breakfast.jpg" width="100%">
+<img src="images/breakfast-cater.jpg" width="100%">
 
 </td>
 
