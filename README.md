@@ -1,10 +1,10 @@
 <div align="center">
 
-# YOUR NAME
+# Michelle Langnickel
 
 ### Food Scientist • Product Development • Culinary R&D
 
-<img src="images/hero.jpg" width="100%">
+<img src="images/kirsten.png" width="50%">
 
 *"Creating products people remember."*
 
@@ -20,7 +20,7 @@
 <tr>
 <td width="55%">
 
-<img src="images/breakfast-hero.jpg" width="100%">
+<img src="images/breakfast.jpg" width="100%">
 
 </td>
 
@@ -52,7 +52,7 @@ could expand beyond gifting into an everyday breakfast experience.
 
 <table>
 <tr>
-<td width="45%">
+<td width="53%">
 
 ## Chocolate & Fruit Desserts
 
@@ -66,7 +66,7 @@ flavor, texture, appearance, and production efficiency.
 
 <td width="55%">
 
-<img src="images/desserts.jpg" width="100%">
+<img src="images/arrangement.png" width="100%">
 
 </td>
 </tr>
@@ -78,8 +78,28 @@ flavor, texture, appearance, and production efficiency.
 
 | | |
 |---|---|
-| <img src="images/gallery1.jpg" width="100%"> | <img src="images/gallery2.jpg" width="100%"> |
-| <img src="images/gallery3.jpg" width="100%"> | <img src="images/gallery4.jpg" width="100%"> |
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" height="250" align="center" valign="middle">
+      <img src="images/temp0.png"
+           style="max-width:100%; max-height:500px; object-fit:contain;">
+    </td>
+    <td width="50%" height="250" align="center" valign="middle">
+      <img src="images/temp1.png"
+           style="max-width:100%; max-height:500px; object-fit:contain;">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" height="250" align="center" valign="middle">
+      <img src="images/temp2.png"
+           style="max-width:100%; max-height:500px; object-fit:contain;">
+    </td>
+    <td width="50%" height="250" align="center" valign="middle">
+      <img src="images/temp3.png"
+           style="max-width:100%; max-height:500px; object-fit:contain;">
+    </td>
+  </tr>
+</table>
 
 *A selection of products created for development, photography, and launch.*
 
@@ -89,7 +109,7 @@ flavor, texture, appearance, and production efficiency.
 <tr>
 <td width="55%">
 
-<img src="images/fruit-arrangements.jpg" width="100%">
+<img src="images/arrangement.png" width="50%">
 
 </td>
 
