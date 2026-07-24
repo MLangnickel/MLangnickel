@@ -2,11 +2,11 @@
 
 # Michelle Langnickel
 
-### Food Scientist • Product Development • Culinary R&D
+### Food Scientist • Product Development • Culinary Innovation
 
-<img src="images/kirsten.png" width="50%">
+<img src="images/headshot.jpg" width="50%">
 
-*"Creating products people remember."*
+*"Combining science and creativity in the form of food."*
 
 </div>
 
@@ -26,13 +26,11 @@
 
 <td width="45%">
 
-## Breakfast Collection
+## Mediterranean Breakfast Collection
 
 A complete breakfast menu developed for a new Edible Brands concept.
 
-From early market research and competitive analysis through recipe formulation,
-iterative testing, and launch preparation, this project explored how fresh fruit
-could expand beyond gifting into an everyday breakfast experience.
+From early market research and ideation through recipe formulation, testing, and launch preparation, this project explored how a well-established Mediterranean restaurant could expand into the breakfast market using ingredients already offered in stores.
 
 **Highlights**
 
@@ -54,19 +52,19 @@ could expand beyond gifting into an everyday breakfast experience.
 <tr>
 <td width="53%">
 
-## Chocolate & Fruit Desserts
+## Mercedez Benz Collaboration
 
 A collection of ready-to-eat desserts balancing premium presentation,
-freshness, and operational consistency.
+freshness, and operational consistency for the launch of a new location in Mercedez Benz Stadium.
 
 Recipes were refined through multiple rounds of testing with a focus on
-flavor, texture, appearance, and production efficiency.
+appearance and presentation, brand consistency, and production efficiency. Professional videos and images were taken of the styled items for marketing throughout the stadium during Atlanta Falcons games.
 
 </td>
 
 <td width="55%">
 
-<img src="images/arrangement.png" width="100%">
+<img src="images/stacks.png" width="100%">
 
 </td>
 </tr>
@@ -76,31 +74,38 @@ flavor, texture, appearance, and production efficiency.
 
 # Gallery
 
-| | |
-|---|---|
 <table align="center" width="100%">
   <tr>
     <td width="50%" height="250" align="center" valign="middle">
-      <img src="images/temp0.png"
+      <img src="images/tasting.jpeg"
            style="max-width:100%; max-height:500px; object-fit:contain;">
     </td>
     <td width="50%" height="250" align="center" valign="middle">
-      <img src="images/temp1.png"
+      <img src="images/croissants.jpeg"
            style="max-width:100%; max-height:500px; object-fit:contain;">
     </td>
   </tr>
   <tr>
     <td width="50%" height="250" align="center" valign="middle">
-      <img src="images/temp2.png"
+      <img src="images/skittles.jpg"
            style="max-width:100%; max-height:500px; object-fit:contain;">
     </td>
     <td width="50%" height="250" align="center" valign="middle">
-      <img src="images/temp3.png"
+      <img src="images/spring.jpg"
+           style="max-width:100%; max-height:500px; object-fit:contain;">
+    </td>
+  </tr>
+
+ <td width="50%" height="250" align="center" valign="middle">
+      <img src="images/bear.jpeg"
+           style="max-width:100%; max-height:500px; object-fit:contain;">
+    </td>
+    <td width="50%" height="250" align="center" valign="middle">
+      <img src="images/glam.jpeg"
            style="max-width:100%; max-height:500px; object-fit:contain;">
     </td>
   </tr>
 </table>
-
 *A selection of products created for development, photography, and launch.*
 
 ---
@@ -109,7 +114,7 @@ flavor, texture, appearance, and production efficiency.
 <tr>
 <td width="55%">
 
-<img src="images/arrangement.png" width="50%">
+<img src="images/arrangement.png" width="100%">
 
 </td>
 
@@ -120,98 +125,61 @@ flavor, texture, appearance, and production efficiency.
 Developed seasonal fruit arrangements with an emphasis on visual appeal,
 production efficiency, and brand consistency.
 
-Projects included concept sketches, production testing, refinement,
+Projects included ideation, recipe testing, refinement,
 and preparation for training and promotional materials.
 
 </td>
 </tr>
 </table>
 
----
-
-# Behind the Scenes
-
-<table>
-
-<tr>
-<td>
-
-<img src="images/process1.jpg" width="100%">
-
-</td>
-
-<td>
-
-<img src="images/process2.jpg" width="100%">
-
-</td>
-
-<td>
-
-<img src="images/process3.jpg" width="100%">
-
-</td>
-
-</tr>
-
-<tr>
-<td align="center">
-
-Prototype
-
-</td>
-
-<td align="center">
-
-Testing
-
-</td>
-
-<td align="center">
-
-Final Product
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="45%">
 
 ## Product Photography
 
 Many of these products were prepared for professional photography,
 marketing campaigns, social media, and internal training.
 
-Attention to detail extended beyond flavor—every garnish, cut, and finish
-needed to communicate quality.
+Attention to detail extended beyond flavor, as every piece of fruit, dip of chocolate, and placement within the arrangement or board needed to communicate quality.
 
-</td>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" height="250" align="center" valign="middle">
+      <img src="images/vday.jpeg"
+           style="max-width:100%; max-height:500px; object-fit:contain;">
+    </td>
+    <td width="50%" height="250" align="center" valign="middle">
+      <img src="images/bts.jpeg"
+           style="max-width:100%; max-height:500px; object-fit:contain;">
+    </td>
 
 <td width="55%">
 
-<img src="images/photoshoot.jpg" width="100%">
-
-</td>
-
-</tr>
 </table>
 
 ---
 
-# University Project
+# Capstone Project
+<div align="center">
+    <img src="images/muffin.jpeg" width="50%" margin-left="25%" valign="middle">
+</div>
 
-<img src="images/muffin.jpg" width="100%">
 
-### Gluten-Free Raspberry Muffin
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" height="250" align="center" valign="middle">
+      <img src="images/sensory.jpeg"
+           style="max-width:100%; max-height:500px; object-fit:contain;">
+    </td>
+    <td width="50%" height="250" align="center" valign="middle">
+      <img src="images/mojo.jpeg"
+           style="max-width:100%; max-height:500px; object-fit:contain;">
+    </td>
+  </tr>
+</table>
 
-A senior capstone focused on developing a gluten-free, high-fiber muffin using
+### Oat Boats Muffin
+
+A senior capstone project focused on developing a gluten-free, high-fiber, raspberry-filled muffin using
 consumer insights, specialty ingredients, and extensive shelf-life,
 microbial, chemical, and sensory testing.
 
@@ -219,9 +187,9 @@ microbial, chemical, and sensory testing.
 
 <div align="center">
 
-### Thanks for visiting.
+### Thank you for visiting!
 
-📧 <a href="mailto:mlangz922@gmail.com">mlangz922@gmail.com</a>
+📧 <a href="mailto:mlangnickel02@gmail.com">mlangnickel02@gmail.com</a>
 
 <a href="https://www.linkedin.com/in/michelle-langnickel-5728891b5/">LinkedIn</a> • <a href="https://github.com/MLangnickel">Portfolio</a>
 
