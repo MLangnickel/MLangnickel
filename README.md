@@ -2,11 +2,11 @@
 
 # Michelle Langnickel
 
-### Food Scientist • Product Development • Culinary Innovation
+### Food Scientist • Product Developer • Culinary Innovator
 
 <img src="images/headshot.jpg" width="50%">
 
-*"Combining science and creativity in the form of food."*
+*Combining science and creativity in the form of food.*
 
 </div>
 
@@ -34,13 +34,13 @@ From early market research and ideation through recipe formulation, testing, and
 
 **Highlights**
 
-• Complete menu concept
+• Complete menu conceptualization
 
 • Recipe development
 
-• Consumer-focused formulation
+• Market-focused formulation
 
-• Launch support
+• Launch preparation
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ A collection of ready-to-eat desserts balancing premium presentation,
 freshness, and operational consistency for the launch of a new location in Mercedez Benz Stadium.
 
 Recipes were refined through multiple rounds of testing with a focus on
-appearance and presentation, brand consistency, and production efficiency. Professional videos and images were taken of the styled items for marketing throughout the stadium during Atlanta Falcons games.
+appearance and presentation, brand consistency, and production efficiency. Professional videos and images were taken of the styled items for promotion throughout the stadium during Atlanta Falcons gamedays.
 
 </td>
 
@@ -106,7 +106,7 @@ appearance and presentation, brand consistency, and production efficiency. Profe
     </td>
   </tr>
 </table>
-*A selection of products created for development, photography, and launch.*
+Pictured above is a selection of products handcrafted for development, professional photography, and marketing purposes.
 
 ---
 
@@ -122,10 +122,10 @@ appearance and presentation, brand consistency, and production efficiency. Profe
 
 ## Fruit Arrangement Design
 
-Developed seasonal fruit arrangements with an emphasis on visual appeal,
+Seasonal fruit arrangements developed with an emphasis on visual appeal,
 production efficiency, and brand consistency.
 
-Projects included ideation, recipe testing, refinement,
+Projects included ideation and presentation, recipe testing, refinement,
 and preparation for training and promotional materials.
 
 </td>
@@ -135,10 +135,10 @@ and preparation for training and promotional materials.
 
 ## Product Photography
 
-Many of these products were prepared for professional photography,
-marketing campaigns, social media, and internal training.
+Once approved for launch, products were prepared for e-commerce listings,
+marketing campaigns, and internal training purposes.
 
-Attention to detail extended beyond flavor, as every piece of fruit, dip of chocolate, and placement within the arrangement or board needed to communicate quality.
+Attention to detail extended beyond flavor, as every piece of fruit, dip of chocolate, and placement within the arrangement needed to communicate quality.
 
 
 <table align="center" width="100%">
@@ -179,9 +179,9 @@ Attention to detail extended beyond flavor, as every piece of fruit, dip of choc
 
 ### Oat Boats Muffin
 
-A senior capstone project focused on developing a gluten-free, high-fiber, raspberry-filled muffin using
+Senior capstone project focused on developing a gluten-free, high-fiber, raspberry-filled muffin using
 consumer insights, specialty ingredients, and extensive shelf-life,
-microbial, chemical, and sensory testing.
+microbial, chemical, and sensory testing. Awarded third place overall.
 
 ---
 
